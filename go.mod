@@ -17,8 +17,7 @@ require (
 	github.com/tidwall/gjson v1.14.0
 	github.com/tidwall/sjson v1.2.4
 	golang.org/x/crypto v0.0.0-20220307211146-efcb8507fb70 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
-	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gonum.org/v1/plot v0.10.0
 	google.golang.org/genproto v0.0.0-20220211171837-173942840c17 // indirect
 	maunium.net/go/mautrix v0.8.3
